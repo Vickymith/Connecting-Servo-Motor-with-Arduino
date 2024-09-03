@@ -1,0 +1,3 @@
+https://wokwi.com/projects/407992802248471553
+This has been done in the Wokwi simulator.
+The servo motor's angle is controlled by Pulse Width Modulation(PWM) signal which is found default in the Arduino's Servo library.
